@@ -39,7 +39,7 @@ Aufgrund der Größe einzelner Geodateien werden die vollständigen Projektdatei
 
 
 **Cloud-Link:**
-[vollständige Proejktdtaeien in der Cloud](https://cloud.bht-berlin.de/index.php/s/6tcZKrB8wSydsND)
+[vollständige Projektdateien in der Cloud](https://cloud.bht-berlin.de/index.php/s/6tcZKrB8wSydsND)
 
 ## Masterarbeit 
 Die vollständige Beschreibung der Methodik, Datenaufbereitung, MCDA, Sensitivitätsanalyse und internen Validierung befindet sich in der zugehörigen Masterarbeit: 
